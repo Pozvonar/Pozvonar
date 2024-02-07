@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning english, any PL, how to work with Git and etc.
 - 💞️ I’m looking to collaborate on Yandex or Google because I want to achieve a coherent teamwork 
 - 📫 How to reach me progress in world of IT?
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i really like to joke with someone ;)
 
 <!---
